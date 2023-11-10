@@ -1,6 +1,0 @@
-{
-    "require": {
-        "nelexa/zip": "^3.3",
-        "stripe/stripe-php": "^13.2"
-    }
-}

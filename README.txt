@@ -6,3 +6,6 @@ https://richiamocoffee.online
 
 Username and Password
 0122392622: 123456
+
+XAMPP Server
+https://www.apachefriends.org
